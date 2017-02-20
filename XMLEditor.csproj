@@ -1019,6 +1019,10 @@
     <Content Include="ckfinder\_samples\standalone.html" />
     <Content Include="ckfinder\_samples\standalone_v1.html" />
     <Content Include="Config\PageLayout.xml" />
+    <Content Include="DLLReferences\CKEditor.NET.dll" />
+    <Content Include="DLLReferences\CKFinder.dll" />
+    <Content Include="DLLReferences\Elmah.dll" />
+    <Content Include="DLLReferences\HtmlAgilityPack.dll" />
     <Content Include="Images\ajax-loader %282%29.gif" />
     <Content Include="Images\arred.gif" />
     <Content Include="Images\arrow-bent-small.gif" />
@@ -1300,7 +1304,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ckfinder\userfiles\" />
-    <Folder Include="DLLReferences\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
