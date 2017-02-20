@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+  <Page xmlFilePath="Xml\\Announcement" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_en.xml" leftExists="YES" rightExists="NO" width="390px" />
+  <Page xmlFilePath="Xml\\Announcement" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_fr.xml" leftExists="YES" rightExists="NO" width="390px" />
+  <Page xmlFilePath="XML\\Touts_Home" xmlFileName="toutHome_en.xml" pageName="Home.aspx" leftExists="NO" rightExists="NO" width="720px" />
+  <Page xmlFilePath="XML\\Touts_Home" xmlFileName="toutHome_fr.xml" pageName="Home.aspx?lang=fr" leftExists="NO" rightExists="NO" width="720px" />
+  <Page xmlFilePath="Xml\\DB\\MTDSG" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MTDSG" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_fr.xml&amp;clang=_fr" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MTDSGStatus" xmlFileName="pageIntro_en.xml" pageName="Pages/DB.aspx?path=DB/MTDSGStatus/pageIntro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MTDSGStatus" xmlFileName="pageIntro_fr.xml" pageName="Pages/DB.aspx?path=DB/MTDSGStatus/pageIntro_fr.xml&amp;clang=_fr" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CNs" xmlFileName="pageIntro_en.xml" pageName="Pages/DB.aspx?path=DB/CNs/pageIntro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CNs" xmlFileName="pageIntro_fr.xml" pageName="Pages/DB.aspx?path=DB/CNs/pageIntro_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CNs" xmlFileName="pageDisclaimer_en.xml" pageName="Pages/DB.aspx?path=DB/CNs/pageDisclaimer_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CNs" xmlFileName="pageDisclaimer_fr.xml" pageName="Pages/DB.aspx?path=DB/CNs/pageDisclaimer_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CTCs" xmlFileName="pageIntro_en.xml" pageName="Pages/DB.aspx?path=DB/CTCs/pageIntro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CTCs" xmlFileName="pageIntro_fr.xml" pageName="Pages/DB.aspx?path=DB/CTCs/pageIntro_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CTCs" xmlFileName="pageDisclaimer_en.xml" pageName="Pages/DB.aspx?path=DB/CTCs/pageDisclaimer_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\CTCs" xmlFileName="pageDisclaimer_fr.xml" pageName="Pages/DB.aspx?path=DB/CTCs/pageDisclaimer_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\journal" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/journal/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\journal" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/journal/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\LONOnline" xmlFileName="pageHelp_en.xml" pageName="Pages/DB.aspx?path=DB/LONOnline/pageHelp_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\LONOnline" xmlFileName="pageHelp_fr.xml" pageName="Pages/DB.aspx?path=DB/LONOnline/pageHelp_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MS" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/MS/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MS" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/MS/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/MSDB/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/MSDB/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageIntro_en.xml" pageName="Pages/DB.aspx?path=DB/MSDB/pageIntro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageIntro_fr.xml" pageName="Pages/DB.aspx?path=DB/MSDB/pageIntro_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageNote_en.xml" pageName="Pages/DB.aspx?path=DB/MSDB/pageNote_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageNote_fr.xml" pageName="Pages/DB.aspx?path=DB/MSDB/pageNote_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageRegulation_en.html" pageName="Pages/DB.aspx?path=DB/MSDB/pageIntro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\MSDB" xmlFileName="pageRegulation_fr.html" pageName="Pages/DB.aspx?path=DB/MSDB/pageIntro_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\Opening for Signature" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/Opening for Signature/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\Opening for Signature" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/Opening for Signature/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\Search" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/SEARCH/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\Search" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/SEARCH/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\studies" xmlFileName="page2_en.xml" pageName="Pages/DB.aspx?path=DB/studies/page2_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\studies" xmlFileName="page2_fr.xml" pageName="Pages/DB.aspx?path=DB/studies/page2_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\titles" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/titles/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\titles" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/titles/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_en.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_fr.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CIintro_en.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CIintro_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CIintro_fr.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CIintro_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CInotes_en.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CInotes_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CInotes_fr.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CInotes_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CIref_en.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CIref_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTS" xmlFileName="page1_CIref_fr.xml" pageName="Pages/DB.aspx?path=DB/UNTS/page1_CIref_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTSOnline" xmlFileName="pageHelp_en.xml" pageName="Pages/DB.aspx?path=DB/UNTSOnline/pageHelp_en.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="Xml\\DB\\UNTSOnline" xmlFileName="pageHelp_fr.xml" pageName="Pages/DB.aspx?path=DB/UNTSOnline/pageHelp_fr.xml" leftExists="YES" rightExists="NO" width="727px" />
+  <Page xmlFilePath="XML\\Footer" xmlFileName="Homefooter_en.xml" pageName="Home.aspx" leftExists="NO" rightExists="NO" width="720px" />
+  <Page xmlFilePath="XML\\Footer" xmlFileName="Homefooter_fr.xml" pageName="Home.aspx?lang=fr" leftExists="NO" rightExists="NO" width="720px" />
+  <Page xmlFilePath="XML\\Footer" xmlFileName="footer_en.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_en.xml" leftExists="NO" rightExists="NO" width="960px" />
+  <Page xmlFilePath="XML\\Footer" xmlFileName="footer_fr.xml" pageName="Pages/DB.aspx?path=DB/MTDSG/page1_en.xml" leftExists="NO" rightExists="NO" width="960px" />
+  <Page xmlFilePath="Xml\\Touts" xmlFileName="tout_en.xml" pageName="Pages/Contact.aspx?lang=en" leftExists="NO" rightExists="YES" width="114px" />
+  <Page xmlFilePath="Xml\\Touts" xmlFileName="tout_fr.xml" pageName="Pages/Contact.aspx?lang=fr" leftExists="NO" rightExists="YES" width="114px" />
+</Pages>

@@ -1,0 +1,196 @@
+
+.quickSearchInput {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	width: 100px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;
+	height: 14px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-right: 2px;
+	margin-left: 0px;
+	padding-right: 2px;
+	padding-left: 0px;
+}
+.searchInputMTDSG{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	width: 250px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;
+	height: 14px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-right: 2px;
+	margin-left: 0px;
+	padding-right: 2px;
+	padding-left: 0px;
+}
+.login {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;	
+}
+.loginSaveProfile {
+	margin: 0px 4px 0px 0px;
+	padding: 0px 4px 0px 0px;
+	border: 0px none;
+}
+.basicBtn {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 1px 2px;
+	padding: 2px 4px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #CCCCCC;
+}
+.basicPullDn {
+	border-left: 1px solid #999999;
+	border-right: 1px solid #CCCCCC;
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+	margin: 2px 1px 2px 4px;
+		padding: 2px 4px;
+	}
+
+.selectbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 2px 4px;
+	padding: 2px 4px;
+	border: 0px none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;
+	*behavior:expression(window.dropdown_menu_hack!=null?window.dropdown_menu_hack(this):0);
+}
+
+
+
+.pullDnCountries {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 2px 4px;
+	padding: 2px 4px;
+	border: 0px none;
+	width: 300px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;
+}
+.selectBox {
+	width: 500px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #EAEAEA;
+	border-bottom: 1px solid #EAEAEA;
+	border-left: 1px solid #CCCCCC;
+}
+
+.dropdownlist {
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #EAEAEA;
+	border-bottom: 1px solid #EAEAEA;
+	border-left: 1px solid #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.textbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #999999;
+	height: 14px;
+}
+.welcomeMsg
+{
+	font-family:Verdana,Arial;
+	font-size:small;
+	font-weight:bold;	
+}
+
+.chkbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height: 14px;
+}
+
+table.chkbox tr td span label, table.chkbox tr td label
+{
+	display: inline-block;
+	margin-left: 5px;
+	width: 152px;
+}
+
+table.chkbox tr td span input[type="checkbox"], table.chkbox tr td input[type="checkbox"]
+{
+	vertical-align: top;
+}

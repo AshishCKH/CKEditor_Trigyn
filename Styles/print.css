@@ -1,0 +1,322 @@
+﻿body 
+{
+	/*font-family: Georgia, Verdana;*/
+	font-size: 0.75em;
+	color: #333333;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background-image: url(../Images/bg.gif);
+	background-repeat: repeat-y;
+	line-height:1.4em;
+}
+.invisible
+{
+	display:none;
+}
+.tabTable {
+
+	width: auto;
+	padding: 10px;
+}
+td 
+{
+	/*font-size: 11px;*/
+    font-size:12px;
+	padding: 0px;
+	border: 0px solid #CCCCCC;
+
+}
+
+#dgSearch1 td
+{
+	/*border: 1px solid #000!important;
+	border-right: 1px solid #000!important;
+	border-top: 1px solid #000!important;*/
+}
+
+#dgSearch1 td td
+{
+	border-right: 0px solid #fff!important;
+	border-left: 0px solid #fff!important;
+	border-top: 0px solid #CCCCCC!important;
+	border-bottom: 1px solid #CCCCCC!important;
+}
+
+
+.boxWhtFullWidth {
+	border: 1px solid #000000;
+	width: 100%;
+}
+
+.GridViewStyle
+{	
+	width: 100%;	
+	background-color:#D7D7D7;
+	/*border: solid 1px #cccccc;*/
+}
+
+a:link {
+	/*color: #2D3D4F;*/
+	/*color: #C2DFFF;*/
+	color: #2D3D4F;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #2D3D4F;
+	text-decoration: underline;
+}
+a:hover {
+	color: #0075FF;	
+}
+a:active {
+	text-decoration: none;
+}
+
+.noprint 
+ {
+ DISPLAY: none
+ } 
+
+/* HEADER TOP RIGHT */
+.headerTopRight {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #CCCCCC;
+	margin-top: 4px;
+	margin-right: 8px;
+}
+.headerTopRight a:link {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.headerTopRight a:visited {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.headerTopRight a:hover {
+	color: #CCCCCC;
+	text-decoration: underline;
+}
+.headerTopRight a:active {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+
+/* INNER PAGE (LAYOUT RELATED) */
+.addressBox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-left: 10px;
+	padding-left: 10px;
+}
+.boxWhtFullWidth {
+	border: 1px solid #FFFFFF;	
+	background-color: #D7D7D7;
+	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.boxGreyFullWidth {
+	border: 1px solid #CCCCCC;
+	width: 99%;
+}
+.boxGreyPartWidth{
+	border: 1px solid #CCCCCC;
+	width: 72%;
+}
+.tabTable {
+	background-color: #EAEAEA;
+	width: auto;
+	padding: 5px;
+}
+.dataTable {
+	width: 100%;
+}
+.dataTable td {
+	font-size: 11px;
+	padding: 2px;
+	border: 1px solid #CCCCCC;	
+}
+.dataTable2 {
+	width: 100%;
+}
+.dataTable2 td {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	padding: 2px;
+	border: 1px solid #CCCCCC;
+	line-height: 13px;
+}
+.notesTable {
+	width: 500px;
+}
+.notesTable td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	color: #333333;
+	padding: 4px;
+	border: 1px solid #CCCCCC;	
+}
+.photoTableWht {
+	width: 100%;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.photoTableWht td {
+	font-size: 11px;
+	padding: 4px;
+	border: 1px solid #CCCCCC;	
+}
+.photoTableGrey {
+	width: 100%;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.photoTableGrey td {
+	font-size: 11px;
+	padding: 4px;
+	border: 1px solid #CCCCCC;
+	background-color: #E6E6E6;
+}
+.tableHdr {
+	font-weight: bold;
+	background-color: #CCCCCC;
+	border:solid 1px #000;
+}
+.trBGGrey {
+	background-color: #F6F6F6;
+}
+.selectedRow
+{
+	background-color: #8D9495;
+}
+
+.ruleDots {
+	background-image: url(../Images/dots.gif);
+	background-repeat: repeat-x;
+	height: 1px;
+	width: 99%;
+}
+.ruleDotsSml {
+	background-image: url(../Images/dots.gif);
+	background-repeat: repeat-x;
+	height: 1px;
+	width: 15%;
+	margin: 0px;
+	padding: 0px;
+}
+ol {
+	padding-left: 25px;
+	list-style-type: decimal;
+}
+li {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+
+
+
+
+/*added by nanda*/
+.borderblack 
+{
+	border: 0px solid #000000;
+}
+
+
+
+
+
+
+.maroonhead
+{
+	font-family: Arial;
+    font-size:11px;
+    font-weight: bold;
+    color: #C61111;
+    
+}
+.login_side
+{
+background-image:url(../Images/login_l.jpg);
+background-attachment:scroll;
+background-repeat:repeat-y;
+}
+
+.dotted_lines
+{
+background-image:url(../Images/dotted_line.gif);
+background-attachment:scroll;
+background-repeat:repeat-x;
+}
+
+
+.trBWhite {
+	background-color: #ffffff;
+}
+
+
+
+.noteIndex
+ {
+	color: #2D3D4F;
+	text-decoration: underline;
+	cursor:pointer;
+}
+.pageNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #2D3D4F;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	display: block;
+	float: left;
+	width: auto;
+	clear: none;
+}
+.pageNav a:link {
+	color: #0075FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.pageNav a:visited {
+	color: #0075FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.pageNav a:hover {
+	color: #0075FF;
+	text-decoration: underline;
+	font-weight: normal;
+}
+.pageNav a:active {
+	text-decoration: none;
+	font-weight: normal;
+}
+
+
+.notesTable {
+	width: 500px;
+}
+.notesTable td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	
+	padding: 4px;
+	border: 1px solid #CCCCCC;	
+}
