@@ -1234,7 +1234,6 @@
     <Compile Include="Code\DB.cs" />
     <Compile Include="Code\MagicStrings.cs" />
     <Compile Include="Code\SqlHelper.cs" />
-    <Compile Include="Code\Utils.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
