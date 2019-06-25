@@ -7,9 +7,11 @@
    <div>
       <table width="600px">
          <tr>
+            
             <td align="left">
                Add Detail
             </td>           
+            
          </tr>
          <tr>
             <td colspan="2">
