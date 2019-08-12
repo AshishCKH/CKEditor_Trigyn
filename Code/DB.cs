@@ -19,7 +19,7 @@ namespace XMLEditor.Code
             parameters = SqlHelperParameterCache.SetParameter(strConn, "XMLFilesDetailGetByID", ht);
             SqlHelper.FillDataset(strConn, "XMLFilesDetailGetByID", ds, null, parameters);
 
-            //parameters = SqlHelperParameterCache.SetParameter(strConn, "......", ht);..
+            //parameters = SqlHelperParameterCache.SetParameter(strConn, "......", ht);.
             //SqlHelper.FillDataset(strConn, "......", ds, null, parameters);
 
             return ds;
