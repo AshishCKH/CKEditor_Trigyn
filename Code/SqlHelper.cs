@@ -22,7 +22,7 @@
 // FITNESS FOR A PARTICULAR PURPOSE.
 // ==============================================================================
 
-//
+//////
 
 using System;
 using System.Collections;
@@ -30,6 +30,9 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Xml;
 
+/// <summary>
+/// 
+/// </summary>
 namespace SqlDataHelper
 {
     /// <summary>
